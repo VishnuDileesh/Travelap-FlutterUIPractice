@@ -1,16 +1,10 @@
-# travelap
+> What We Learn With Pleasure We Never Forget - Alfred Mercier
 
-A new Flutter project.
+## (Flutter UI Pracitce Projects) 
 
-## Getting Started
+> For practice projects, i pick random UI designs by UI/UX designers from Instagram, i try my level best to recreate the UI design in Dart & Flutter. The repo contains all the code and assets used, along with the app [apk release](https://github.com/VishnuDileesh/Travelap-FlutterUIPractice/blob/master/apk-release/travelapp-ui.apk). 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## [Travelap](https://www.instagram.com/p/B-ugAS2jCCx/) UI is designed by : [Paco Vaca](https://www.instagram.com/paquinki_ui/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
